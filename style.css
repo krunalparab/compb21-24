@@ -177,17 +177,17 @@ section::before{
   
   .profile-card {
     text-align: center;
-    width: 200px;
+    width: 300px;
     background-color: #fff;
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 4px rgba(118, 0, 112, 0.667);
   }
   
   .profile-card img {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border-radius: 16px;
     margin-bottom: 10px;
   }
   
@@ -202,6 +202,17 @@ section::before{
     color: #666;
     font-size: 14px;
   }
-
+  .socials{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+.socials img{
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+    margin: 10px;
+    
+}
 
 
