@@ -42,7 +42,7 @@ nav ul li a::after{
     content: '';
     width: 0;
     height: 3px;
-    background: #ff004f;
+    background: #d301d6;
     position: absolute;
     left: 0;
     bottom: -6px;
@@ -86,7 +86,7 @@ nav .search_box span::after{
     height: 100%;
     width: 100%;
     content: ' ';
-    background: #ff004f;
+    background: #d301d6;
     position: absolute;
     top: 0;
     left: 0;
